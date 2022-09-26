@@ -2,7 +2,7 @@
 
 #### Description
 
-This is a project for the MIT xPRO Professional Certificate in Coding, where given a starter code and source images, a PacMan figure is animated and moves back and forth across the screen
+This is a project for the MIT xPRO Professional Certificate in Coding, where given a starter code and source images, a PacMan figure is animated and moves across the screen, turning around when the boundary is detected
 
 
 
