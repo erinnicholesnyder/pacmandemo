@@ -6,9 +6,14 @@ This is a project for the MIT xPRO Professional Certificate in Coding, where giv
 
 
 
-#### Usage
+#### How to Run
 
-This project demonstrates the use of functions, arrays and loops to call and move images in a browser to create an animation
+Once the page loads the animation should begin and continue on its own
+
+
+#### Roadmap of Future Improvements
+
+More functionality can be added; buttons and other design elements can be added; more PacMen and related characters 
 
 
 #### License information
